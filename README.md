@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Java, Python**
 
-- 👯 I’m looking to collaborate on **Thonny Dev Tools**
-
 - 🤝 I’m looking for help with **Some APIs For Getting Information**
 
 <h3 align="left">Connect with me:</h3>
