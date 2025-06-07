@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thonny-developer" alt="thonny-developer" /></a> </p>
 
-- 🔭 I’m currently working on **Thonny Dev Tools**
+- 🔭 I’m currently searching a job
 
 - 🌱 I’m currently learning **Java, Python**
 
