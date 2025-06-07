@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-### [Telegram](https://t.me/thonny812)
-### [WhatsApp](https://wa.me/+777756399319)
+<b href="https://t.me/thonny812"> Telegram </b>
+<b href="https://wa.me/+777756399319"> WhatsApp </b>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thonny-developer&show_icons=true&theme=dark&locale=ru&layout=compact" alt="thonny-developer" /></p>
