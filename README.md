@@ -5,7 +5,6 @@
 ### Latest Projects
 
 [![Telegram Shop](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=Telegram-Marketplace-Bot&theme=dark)](https://github.com/Thonny-Developer/Telegram-Marketplace-Bot)
-
 [![Pre-Trained AI](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=PreTrainedAITest&theme=dark)](https://github.com/Thonny-Developer/PreTrainedAITest)
 
 ### Languages And Tools
