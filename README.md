@@ -2,9 +2,11 @@
 
 ## I`m Python Backend Developer
 
-### Last Project
+### Latest Projects
 
+[![Telegram Shop](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=Telegram-Marketplace-Bot&theme=dark)](https://github.com/Thonny-Developer/Telegram-Marketplace-Bot)
 
+[![Pre-Trained AI](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=PreTrainedAITest&theme=dark)](https://github.com/Thonny-Developer/PreTrainedAITest)
 
 ### Languages And Tools
 
@@ -24,4 +26,4 @@
 
 ### Some Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Thonny-Developer&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Thonny-Developer&show_icons=true&theme=dark)
