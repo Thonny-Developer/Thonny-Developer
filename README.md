@@ -2,6 +2,8 @@
 
 ## I`m Python Backend Developer
 
+### Last Project
+
 
 
 ### Languages And Tools
@@ -19,3 +21,7 @@
 
 [![Telegram](https://img.shields.io/badge/telegram-050505?style=for-the-badge&logo=telegram)](https://t.me/thonny812)
 [![Discord](https://img.shields.io/badge/discord-050505?style=for-the-badge&logo=discord)](https://discordapp.com/users/1008015054916026399)
+
+### Some Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Thonny-Developer&show_icons=true)
