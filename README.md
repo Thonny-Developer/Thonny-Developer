@@ -7,6 +7,7 @@
 ### Languages And Tools
 
 ![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python)
+![Lua](https://img.shields.io/badge/luau-050505?style=for-the-badge&logo=lua)
 ![Sql](https://img.shields.io/badge/sql-050505?style=for-the-badge&logo=mysql&logoColor=00648B)
 ![FastApi](https://img.shields.io/badge/FastApi-050505?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-050505?style=for-the-badge&logo=flask)
