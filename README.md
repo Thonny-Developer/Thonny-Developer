@@ -16,3 +16,6 @@
 ![Telebot](https://img.shields.io/badge/telebot-050505?style=for-the-badge&logo=telegram&logoColor=ffffff)
 
 ### Contacts
+
+[![Telegram](https://img.shields.io/badge/telegram-050505?style=for-the-badge&logo=telegram)](https://t.me/thonny812)
+[![Discord](https://img.shields.io/badge/discord-050505?style=for-the-badge&logo=discord)](https://discordapp.com/users/1008015054916026399)
