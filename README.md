@@ -4,8 +4,8 @@
 
 ### Latest Projects
 
-[![Telegram Shop](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=Telegram-Marketplace-Bot&theme=dark)](https://github.com/Thonny-Developer/Telegram-Marketplace-Bot)
-[![Training AI](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=Training-AI-Model&theme=dark)](https://github.com/Thonny-Developer/Training-AI-Model)
+[![Brawl Stars Python Server](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=Brawl-Stars-Server&theme=dark)](https://github.com/Thonny-Developer/Brawl-Stars-Server)
+[![Training AI Python](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=Training-AI-Model&theme=dark)](https://github.com/Thonny-Developer/Training-AI-Model)
 
 ### Languages And Tools
 
@@ -22,7 +22,3 @@
 
 [![Telegram](https://img.shields.io/badge/telegram-050505?style=for-the-badge&logo=telegram)](https://t.me/thonny812)
 [![Discord](https://img.shields.io/badge/discord-050505?style=for-the-badge&logo=discord)](https://discordapp.com/users/1008015054916026399)
-
-### Some Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Thonny-Developer&show_icons=true&theme=dark)
