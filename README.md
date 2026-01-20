@@ -11,7 +11,7 @@ https://thonny.pythonanywhere.com/
 
 ## Latest Projects
 
-[![Host-Site](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=Aura-Host-Site&theme=dark)](https://github.com/Thonny-Developer/Brawl-Stars-Server)
+[![Host-Site](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=Aura-Host-Site&theme=dark)](https://github.com/Thonny-Developer/Aura-Host-Site)
 [![Training AI Python](https://github-readme-stats.vercel.app/api/pin/?username=Thonny-Developer&repo=Training-AI-Model&theme=dark)](https://github.com/Thonny-Developer/Training-AI-Model)
 
 
